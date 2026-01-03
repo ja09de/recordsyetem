@@ -19,12 +19,12 @@ This project is intended for **academic purposes**.
 -  **contact:tanqueridojade@email.com
    
 ## Members
-Sialza, Jonalyn B.
-Tanquerido, Jade G.
-Dolor, Queen Angel B.
-Seron, Milkaye A.
-Segotier, Shiena Marie G.
-Frondozo, Rashelle Jane L.
-Domingo, Angelo Jerome R.
-Lariza, Jenecel
+- Sialza, Jonalyn B.
+- Tanquerido, Jade G.
+- Dolor, Queen Angel B.
+- Seron, Milkaye A.
+- Segotier, Shiena Marie G.
+- Frondozo, Rashelle Jane L.
+- Domingo, Angelo Jerome R.
+- Lariza, Jenecel
 
